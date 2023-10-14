@@ -11,6 +11,7 @@ The Resume Builder App was built using the following technologies:
     <li>React-router-dom, for routing.</li>
     <li>tailwind-css for styling index page </li>
   </ul>
+  
 The Resume Builder App offers the following features:
 
 User-friendly interface: The app has an intuitive and easy-to-use interface, making it accessible to users of all skill levels.
