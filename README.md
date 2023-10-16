@@ -1,8 +1,10 @@
 # Resume Builder 📄
 
-Introducing Resume Builder, the ultimate React application that empowers you to craft eye-catching resumes like never before. You can easily customise your resume with Resume Builder's user-friendly interface to highlight your unique skills and professional experience.
+Introducing Resume Builder, the ultimate React application that empowers you to craft eye-catching resumes like never before. You can easily customize your resume with Resume Builder's user-friendly interface to highlight your unique skills and professional experience.
 
 Stand out from the crowd and make a lasting impression with Resume Builder, the perfect tool to land your dream job. Start building your future today!
+
+**A RESPONSIVE WEB APPLICATION THAT WILL WORK IN ANY DEVICES** 
 
 
 ### Technologies that are used in this project.
@@ -46,5 +48,5 @@ npx tailwindcss init -p
 **My Resume Page** - This component shows the resume that user saved.
 
 **Abouts Us** 
-Short info about the app
+- Short info about the app
 
