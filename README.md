@@ -47,6 +47,6 @@ npx tailwindcss init -p
 
 **My Resume Page** - This component shows the resume that user saved.
 
-**Abouts Us** 
-- Short info about the app
+**Abouts Us** - Short info about the app
+
 
