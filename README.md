@@ -2,12 +2,16 @@
 
 Introducing Resume Builder, the ultimate React application that empowers you to craft eye-catching resumes like never before. You can easily customize your resume with Resume Builder's user-friendly interface to highlight your unique skills and professional experience.
 
-Stand out from the crowd and make a lasting impression with Resume Builder, the perfect tool to land your dream job. Start building your future today!
+--Stand out from the crowd and make a lasting impression with Resume Builder, the perfect tool to land your dream job. Start building your future today!--
 
 **A RESPONSIVE WEB APPLICATION THAT WILL WORK IN ANY DEVICES** 
 
+## Yotube Demo
+
+https://youtu.be/fArHkmkaMSA
 
 ### Technologies that are used in this project.
+
   <ul>
     <li>React</li> 
     <li>Material UI, for UI</li>  
@@ -23,17 +27,15 @@ Stand out from the crowd and make a lasting impression with Resume Builder, the 
 Clone this repository in your local machine and install the needed dependencies
 
 Type **npm start** in terminal to start the application after installing the dependencies using **npm install <package_name>**
-
-1.npm install react
-2.npm install react-router-dom
-3.npm install react-hook-form
-4.npm install redux
-5.npm install jspdf
-6.npm install @mui/material
-7.npm install @mui/icons-material
-8.npm install tailwindcss postcss-cli autoprefixer
-npx tailwindcss init -p
-
+  <ul>
+ <li>1.npm install react</li> 
+ <li>2.npm install react-router-dom</li> 
+<li>3.npm install react-hook-form</li> 
+<li>4.npm install redux</li>
+<li>5.npm install jspdf</li>
+<li>6.npm install @mui/material</li>
+<li>7.npm install @mui/icons-material</li>
+<li>8.npm install tailwindcss postcss-cli autoprefixer</li>
 
 ## Components and Pages of Application:
 
