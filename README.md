@@ -1,54 +1,41 @@
-# Resume Builder 📄
+# 📄 Resume Builder
 
-Introducing Resume Builder, the ultimate React application that empowers you to craft eye-catching resumes like never before. You can easily customize your resume with Resume Builder's user-friendly interface to highlight your unique skills and professional experience.
+**Introduction:**
+Introducing Resume Builder, the ultimate React application that empowers you to craft eye-catching resumes like never before. Customize your resume with ease using Resume Builder's user-friendly interface, highlighting your unique skills and professional experience. Stand out from the crowd and make a lasting impression with Resume Builder—the perfect tool to land your dream job. Start building your future today!
 
---Stand out from the crowd and make a lasting impression with Resume Builder, the perfect tool to land your dream job. Start building your future today!--
+**Web Application:**
+Built to work seamlessly across all devices.
 
-**A RESPONSIVE WEB APPLICATION THAT WILL WORK IN ANY DEVICES** 
+**YouTube Demo:**
+Watch the demo [here](https://youtu.be/fArHkmkaMSA).
 
-## Yotube Demo
+**Technologies Used:**
+- React
+- Material UI for UI
+- JSpdf for downloading resumes
+- Redux for state management
+- React-avatar-edit for selecting profile images
+- React-router-dom for routing
+- Tailwind CSS for styling the index page
 
-https://youtu.be/fArHkmkaMSA
+**Installation:**
+1. Clone this repository to your local machine.
+2. Install the required dependencies: npm install or npm i
+3. 3. Start the application: npm start
 
-### Technologies that are used in this project.
+**Dependencies:**
+1. react
+2. react-router-dom
+3. react-hook-form
+4. redux
+5. jspdf
+6. @mui/material
+7. @mui/icons-material
+8. tailwindcss postcss-cli autoprefixer
 
-  <ul>
-    <li>React</li> 
-    <li>Material UI, for UI</li>  
-    <li>JSpdf, for downloading resume.</li> 
-    <li>Redux, for state management.</li>  
-    <li>React-avatar-edit, for selecting profile image for resume.</li>
-    <li>React-router-dom, for routing.</li>
-    <li>tailwind-css for styling index page </li>
-  </ul>
-
-## Installation
-
-Clone this repository in your local machine and install the needed dependencies
-
-Type **npm start** in terminal to start the application after installing the dependencies using **npm install <package_name>**
-  <ul>
- <li>1.npm install react</li> 
- <li>2.npm install react-router-dom</li> 
-<li>3.npm install react-hook-form</li> 
-<li>4.npm install redux</li>
-<li>5.npm install jspdf</li>
-<li>6.npm install @mui/material</li>
-<li>7.npm install @mui/icons-material</li>
-<li>8.npm install tailwindcss postcss-cli autoprefixer</li>
-
-## Components and Pages of Application:
-
-**Template Selection** - From this component user can choose their favourite template.
-
-
-**Details Filling Page** - From this component user can add their details of personal info, education, experience and skills.
-
-
-**Preview Page** - The user will see their resume in its final form in this component, and once everything is finished, they can use the save button to downlaod it in PDF format.
-
-**My Resume Page** - This component shows the resume that user saved.
-
-**Abouts Us** - Short info about the app
-
-
+**Components and Pages:**
+- Template Selection: Choose your favorite resume template.
+- Details Filling Page: Add personal info, education, experience, and skills.
+- Preview Page: View your resume's final form and download it in PDF format.
+- My Resume Page: Access and view your saved resumes.
+- About Us: Learn more about the app.
